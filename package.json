@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "robust-estimate-float": "^1.0.0",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "exact-segment-intersect": "^2.0.0",
+    "robust-segment-intersect": "^1.0.1"
+  }
+}
